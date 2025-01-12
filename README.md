@@ -15,7 +15,7 @@ This project implements a comprehensive Traffic Sign Detection system using adva
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [contact](#Contact)
+- [Contact](#Contact)
 - [Acknowledgments](#acknowledgments)
 
 ---
