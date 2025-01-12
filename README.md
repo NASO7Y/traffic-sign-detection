@@ -15,7 +15,6 @@ This project implements a comprehensive Traffic Sign Detection system using adva
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Future Enhancements](#future-enhancements)
 - [contact](#Contact)
 - [Acknowledgments](#acknowledgments)
 
@@ -103,13 +102,7 @@ The model demonstrates:
 - **Test Accuracy**: 95%
 - **Detection Speed**: Processes up to 10 frames per second on a standard GPU.
 
----
 
-## Future Enhancements
-
-- **Support for Additional Datasets**: Include European or Asian traffic sign datasets.
-- **Integration with YOLO or Faster R-CNN**: Enhance real-time detection capabilities.
-- **Mobile Deployment**: Develop a lightweight version for mobile applications.
 
 ---
 
