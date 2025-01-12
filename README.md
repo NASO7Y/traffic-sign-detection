@@ -3,20 +3,6 @@
 
 This project implements a comprehensive Traffic Sign Detection system using advanced computer vision and deep learning techniques. The application identifies and classifies traffic signs in images and video streams, contributing to safer driving environments and aiding the development of driver assistance systems and autonomous vehicles.
 
----
-
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Dataset](#dataset)
-- [Model Architecture](#model-architecture)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contact](#Contact)
-- [Acknowledgments](#acknowledgments)
 
 ---
 
