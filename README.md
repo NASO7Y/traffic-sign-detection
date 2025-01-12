@@ -16,8 +16,7 @@ This project implements a comprehensive Traffic Sign Detection system using adva
 - [Usage](#usage)
 - [Results](#results)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+- [contact](#Contact)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -43,7 +42,7 @@ The Traffic Sign Detection system is designed to process visual data and detect 
 
 ## Dataset
 
-This project utilizes the [LISA Traffic Sign Dataset](https://git-disl.github.io/GTDLBench/datasets/lisa_traffic_sign_dataset/), which contains annotated images of traffic signs observed in North America. The dataset is diverse, containing variations in lighting, weather conditions, and perspectives.
+if you are interested to use the  : [Dataset](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign), which contains annotated images of traffic signs observed. The dataset is diverse, containing variations in lighting, weather conditions, and perspectives.
 
 ---
 
@@ -70,11 +69,7 @@ To set up the project locally, follow these steps:
    ```bash
    cd traffic-sign-detection
    ```
-3. **Create a virtual environment:**
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
+
 4. **Install dependencies:**
    ```bash
    pip install -r requirements.txt
@@ -123,17 +118,9 @@ The model demonstrates:
 Contributions are highly encouraged! Follow these steps to contribute:
 
 1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-branch-name`).
-3. Commit changes (`git commit -m "Add new feature"`).
-4. Push to the branch (`git push origin feature-branch-name`).
-5. Open a pull request.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+2. Create a new branch for your feature.
+3. Commit your changes and submit a pull request.
+   
 ---
 
 ## Acknowledgments
@@ -143,5 +130,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [OpenCV](https://opencv.org/) for image processing tools.
 
 ---
+## Contact
+
+GitHub: naso7y
+
+Email: ahmed.noshy2004@gmail.com
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/nos7y/)
 
 Thank you for exploring this project. Feel free to reach out for questions or feedback!
